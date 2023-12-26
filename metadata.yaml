@@ -1,0 +1,33 @@
+_repo: The-love-affairs-of-the-Condes-1530-1740_72253
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Williams, H. Noel (Hugh Noel)
+    alias: Williams, Hugh Noel
+    birthdate: 1870
+    deathdate: 1925
+    gutenberg_agent_id: '38950'
+    url: http://www.gutenberg.org/2009/agents/38950
+description: ''
+gutenberg_issued: '2023-11-28'
+identifiers:
+  gutenberg: '72253'
+  lccn: a13000353
+language: en
+pgterms:marc905: 20160704175452williams
+pgterms:marc906: '1912'
+pgterms:marc907: US
+production_note: Clarity, Karin Spence and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bCharles Scribner''s Sons, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Bourbons, 1589-1789'
+- !lcsh 'Conde family'
+- !lcc 'DC'
+- GITenberg
+title: The love-affairs of the Condés (1530-1740)
+url: http://www.gutenberg.org/ebooks/72253
