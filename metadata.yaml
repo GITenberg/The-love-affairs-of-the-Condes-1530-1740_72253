@@ -1,5 +1,8 @@
 _repo: The-love-affairs-of-the-Condes-1530-1740_72253
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72253-h/images/cover.jpg
 creator:
   author:
     agent_name: Williams, H. Noel (Hugh Noel)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '38950'
     url: http://www.gutenberg.org/2009/agents/38950
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72253#The-love-affairs-of-the-Condes-1530-1740
 gutenberg_issued: '2023-11-28'
 identifiers:
   gutenberg: '72253'
